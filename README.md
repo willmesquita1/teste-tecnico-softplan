@@ -18,6 +18,7 @@ Implementação de um atualizador de barras de progresso em segundo plano. Neste
 
 ## Tarefa 3 
 Implementado recurso de processamento de dados em lote. No caso há uma grade com vários itens, e deverá realizar alguns cálculos utilizando os valores dos campos.
+
 ![Captura de tela 2022-05-25 013838](https://user-images.githubusercontent.com/103403091/170182516-5a130319-e03c-4c8b-9f01-9f3c07740045.png)
 
 ## Testes unitários
