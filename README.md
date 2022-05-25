@@ -5,7 +5,7 @@ Teste técnico para vaga de Desenvolvedor Delphi Pleno - Cód. 3188 (Segmento Ju
 Para rodar a aplicação é necessário instalar o DUnitX para poder rodar os testes automatizados, o mesmo se encontra na pasta `dependencies` e é necessário adicionar a pasta `dependencies\dunit\Source` ao library path, caso a versão do Delphi utilizada não tenha o DUnitX instalado. E também é necessário o midas.dll, cujo já está na pasta do executável.
 
 ## Aplicação 
-A aplicação consiste em um formulário principal do tipo MDI, e todas as tarefas podem ser acessadas a partir do menu principal no canto superior esquerdo.
+A aplicação consiste em um formulário principal do tipo MDI, e todas as tarefas podem ser acessadas a partir do menu principal no canto superior esquerdo. Para rodar aplicação, basta ir na pasta `win32\release` e executar o arquivo `ProvaDelphiApp.exe`
 ![Captura de tela 2022-05-25 012047](https://user-images.githubusercontent.com/103403091/170182440-5390a2bd-35f4-44b5-af8a-be36690e9d65.png)
 
 ## Tarefa 1
